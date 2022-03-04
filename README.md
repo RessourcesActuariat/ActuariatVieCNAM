@@ -1,5 +1,7 @@
 # ActuariatVieCNAM
-Cours Actuariat Vie CNAM
+Cours Actuariat Vie CNAM - ACT 102 
+- [Kristiano Benjko](https://www.linkedin.com/in/kristianobejko/)
+- [Guillaume Gorge](https://www.linkedin.com/in/guillaume-gorge-05340a8/) et 
 
 
 - Le cours sur les tables de mortalité : 
