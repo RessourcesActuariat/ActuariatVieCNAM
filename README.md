@@ -1,5 +1,5 @@
 # ActuariatVieCNAM
-Cours Actuariat Vie CNAM - ACT 102 
+Cours [Actuariat](https://actuariat.cnam.fr/) Vie CNAM - ACT 102 
 - [Kristiano Benjko](https://www.linkedin.com/in/kristianobejko/)
 - [Guillaume Gorge](https://www.linkedin.com/in/guillaume-gorge-05340a8/)
 
