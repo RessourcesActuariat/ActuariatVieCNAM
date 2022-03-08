@@ -11,5 +11,5 @@ Les différents cours :
 - [données](https://github.com/RessourcesActuariat/ActuariatVieCNAM/tree/main/DataActuariat) : données de l'INSEE (avec une mise en forme minimale pour faciliter la lecture)
 
 
-Quelques liens utiles : 
-- [Comment soumettre l'exercice Titanic](https://github.com/RessourcesActuariat/ActuariatVieCNAM/tree/main/SoumissionTitanic.md)
+Quelques liens utiles sur le [wiki](https://github.com/RessourcesActuariat/ActuariatVieCNAM/wiki/Home) : comment soumettre les exercices,...
+
