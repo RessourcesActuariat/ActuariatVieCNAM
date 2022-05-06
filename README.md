@@ -13,8 +13,7 @@ Les différents cours :
 
 
 Quelques liens utiles : 
-- [Comment soumettre l'exercice Titanic](https://github.com/RessourcesActuariat/ActuariatVieCNAM/tree/main/SoumissionTitanic.md)
+- [Comment soumettre l'exercice Titanic](https://github.com/RessourcesActuariat/ActuariatVieCNAM/wiki/SoumissionTitanic
 - [Solution Titanic](https://github.com/RessourcesActuariat/ActuariatVieCNAM/blob/main/Solution%20TItanic.ipynb)
 
-
-![Tribulations d'un chinois en Chine](https://media-exp1.licdn.com/dms/image/C4E22AQFBB92CEDt1Ug/feedshare-shrink_800/0/1647454840638?e=1650499200&v=beta&t=WuqMIelBOHa8fk-05PhlBzp9Um53WiQYVFHB1kXRBr0)
+ 
