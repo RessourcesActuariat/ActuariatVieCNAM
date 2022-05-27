@@ -9,6 +9,7 @@ Les différents cours :
   - [Partie 1](https://github.com/RessourcesActuariat/ActuariatVieCNAM/blob/main/Table%20de%20Mortalit%C3%A9%20-%20Partie%201.ipynb) : définition, calcul des taux de mortalité, tables réglementaires avec l'amicale contribution de Jules Verne
   - [Partie 2](https://github.com/RessourcesActuariat/ActuariatVieCNAM/blob/main/Table%20de%20Mortalit%C3%A9%20-%20Partie%202vf.ipynb) : Extrapolations, principaux modèles (Gompertz,...)
   - [Partie 3](https://github.com/RessourcesActuariat/ActuariatVieCNAM/blob/main/Table%20de%20Mortalit%C3%A9%20-%20Partie%203.ipynb) : Graphe de Lexis, table prospective (Lee-Carter), Estimateur de Kaplan-Meier, Modèle de Cox.
+  - [Partie 6](https://github.com/RessourcesActuariat/ActuariatVieCNAM/blob/main/Cours%20Solvabilit%C3%A9%20-%20ruine.ipynb) : Probabilité de ruine, modèles classiques, approximation normale, solvabilité 2
 - [données](https://github.com/RessourcesActuariat/ActuariatVieCNAM/tree/main/DataActuariat) : données de l'INSEE (avec une mise en forme minimale pour faciliter la lecture)
 
 
